@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head> <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+    <title>G-Sleezy</title>
+  </head>
+  <body>
+    <h1>G-Eazy</h1>
+    <div class="sidebar">
+      <ul><strong>UPcoming SHows</strong>
+        <li> 1/6/16 | Portland, OR | Memorial Coliseum</li>
+        <li> 1/7/16 | Seattle, WA  | WaMu Theater</li>
+        <li> 1/8/16 | Boise, ID    | Century Link Arena</li>
+        <li> 1/9/16 | Salt Lake, UT| Great Saltair</li>
+        <li> 1/10/16| Denver, CO   | 1st Bank Center</li>
+        <li> 1/12/16| Kansas, MO   | Midland Theatre</li>
+      </ul>
+    </div>
+    <img src="images/geaz.png" class="geaz">
+
+  <p class="column">
+    Dressed in black with his hair slicked back, G-Eazy adds a touch of class to hip-hop. For as traditionally dapper as he may be, he’s got both feet firmly planted in the future. So what does the future look like for the producer, songwriter, and rapper? Well, it’s just as bright as he is…
+Raised in Oakland, CA, G-Eazy made the decision to enroll at Loyola University New Orleans because of their strong music industry program where he started to cultivate and craft his own inimitable style while still in college. For the budding artist, the partying wasn’t nearly as important as creating. He missed more than a few keggers so he could lay down tracks in his dorm room for a series of buzz-generating mixtapes culminating in his 2011 breakout, Endless Summer.
+With the release of Endless Summer, G-Eazy started to garner attention from both the backpackers and the mainstream. Diploma in hand, he hit 2012 running. During that summer’s Warped Tour, he produced, wrote, and recorded what would become his full-length debut, Must Be Nice. Blending elegant production with a sly, slick, and smooth flow, the album landed at #3 on the iTunes Hip Hop Chart completely independent of a label.</p>
+    <img src="images/geazer.jpg" class="geaz">
+
+
+
+  </body>
+</html>
