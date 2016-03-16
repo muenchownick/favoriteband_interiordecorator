@@ -2,18 +2,13 @@ h1{
   font-weight: bold;
   font-size: 40px;
   text-align: center;
-  color: white;
-
 }
-
 .sidebar{
   width: 30%;
   float: right;
   background-color: yellow;
   font-size: 12px;
-
 }
-
 body{
   background-color: black;
   background-image: url
@@ -24,13 +19,11 @@ body{
   height: 500px;
   width: 500px;
 }
-
-.column{
-  width: 250px;
+.text{
+  text-align: center;
+  font-family: fantasy;
   color: white;
-  columns: 1;
-  float: right;
-
-
-
+}
+.white{
+  color: white;
 }
