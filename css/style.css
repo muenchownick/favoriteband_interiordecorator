@@ -4,22 +4,16 @@ h1{
   text-align: center;
 }
 .sidebar{
-  width: 30%;
+  width: 32%;
   float: right;
-  background-color: yellow;
+  background-color: orange;
   font-size: 12px;
   text-align: center;
-  padding-left: 20px;
+  padding-left: 5px;
+  border: 5px solid yellow;
 }
 body{
   background-color: black;
-  background-image: url
-}
-
-.geaz{
-  float: left;
-  height: 500px;
-  width: 500px;
 }
 .text{
   text-align: center;
@@ -30,12 +24,19 @@ body{
   color: white;
 }
 .column{
-  width: 300px;
+  width: 32%;
+  height: 500px;
   float: right;
-
+  border: 2px dotted white;
+  background-color: #100000;
 }
 .img{
-  width: 400px;
+  width: 600px;
   height: 500px;
-  padding-right: 100px;
+  position: absolute;
+  bottom: 620px;
+   right: 450px;
+<-------------------
+   THIS TOOK SO LONG TO FIND PERFECT POSITION
+<------------------
 }
