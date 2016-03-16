@@ -12,6 +12,13 @@ h1{
   padding-left: 5px;
   border: 5px solid yellow;
 }
+.sidebar blockquote {
+  font-style: italic;
+  font-variant: small-caps;
+}
+.sidebar ul h3 {
+  color: #404040
+}
 body{
   background-color: black;
 }
@@ -36,7 +43,4 @@ body{
   position: absolute;
   bottom: 620px;
    right: 450px;
-<-------------------
-   THIS TOOK SO LONG TO FIND PERFECT POSITION
-<------------------
 }
