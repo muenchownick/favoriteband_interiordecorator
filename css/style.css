@@ -46,3 +46,19 @@ body{
   bottom: 620px;
    right: 450px;
 }
+
+/* ===============================================
+  Media Queries
+==================================================*/
+
+@media screen and (max-width: 768px) and (min-width: 481px) {
+  body {
+    background: #FF6347;
+    color: #FFF;
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    background: #4682B4;
+  }
+}
